@@ -1,6 +1,6 @@
 # A MY DUMB NOTES ABOUT LEARNING REACT
 
-### i put several commet to remind my self bout what the f im doin in here, yet i believ i still miss a lot bout the react.. sigh..
+### i put several comment to remind my self bout what the f im doin in here, yet i believe i still miss a lot bout the react.. sigh..
 <br/>
 to start basic react here i use, my existing directory.. so i type this in terminal.. th dot is to refer the folder or directory im at
 
