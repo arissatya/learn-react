@@ -2,7 +2,7 @@
 
 ### i put several commet to remind my self bout what the f im doin in here, yet i believ i still miss a lot bout the react.. sigh..
 <br/>
-to start basic react here i use, my existing directory.. so i type this in terminal..
+to start basic react here i use, my existing directory.. so i type this in terminal.. th dot is to refer the folder or directory im at
 
 ```
 npx create-react-app .
@@ -16,7 +16,7 @@ npm i react-router-dom redux react-redux redux-thunk
 <br/>
 <br/>
 ---
-btw its the react's package json geerated scripts..
+btw its the react's package json generated scripts..
 
 ```
 Available Scripts
