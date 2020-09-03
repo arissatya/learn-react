@@ -6,7 +6,7 @@ export default function About() {
 
   return (
     <div>
-      <h1>HELOOOOO from {name}'s about</h1>
+      <h1>HELOOOOO FROM <b> {name}'s </b> ABOUT</h1>
     </div>
   )
 }

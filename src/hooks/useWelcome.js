@@ -2,7 +2,8 @@ import { useEffect } from 'react'
 
 export default function useWelcome() {
   useEffect(()=>{
-    console.log('assalamualaikum dari hooks');
+    console.log('HELLO FROM HOOKS');
   })
-  // return {null}
+  // we can do just this in hook, kinda stupid i guess
+  // it is dumb but its working
 }
